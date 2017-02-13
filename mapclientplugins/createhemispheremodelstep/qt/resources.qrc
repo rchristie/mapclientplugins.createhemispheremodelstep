@@ -1,0 +1,6 @@
+
+<RCC>
+  <qresource prefix="createhemispheremodelstep">
+    <file>images/data-source.png</file>
+  </qresource>
+</RCC>
